@@ -4,7 +4,7 @@
 
 ## 下載與安裝 Download & Installation
 
-1. 前往 [Releases](https://github.com/remotenc/cadasu-local-releases-test/releases) 下載最新版 `.exe`
+1. 前往 [Releases](https://github.com/remotenc/cadasu-autoupload-test/releases) 下載最新版 `.exe`
 2. 執行安裝程式
 3. 完成安裝
 
