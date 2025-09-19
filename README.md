@@ -1,10 +1,10 @@
 # Cadasu Local
 
-自動監控資料夾並上傳至 CADASU 網站 (app.cadasu.com)
+自動監控資料夾並上傳至 CADASU 測試網站 (app.test.cadasu.com)
 
 ## 下載與安裝 Download & Installation
 
-1. 前往 [Releases](https://github.com/remotenc/cadasu-local-releases/releases) 下載最新版 `.exe`
+1. 前往 [Releases](https://github.com/remotenc/cadasu-local-releases-test/releases) 下載最新版 `.exe`
 2. 執行安裝程式
 3. 完成安裝
 
