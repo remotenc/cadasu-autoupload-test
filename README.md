@@ -1,4 +1,4 @@
-# Cadasu Local
+# Cadasu AutoUpload Test
 
 自動監控資料夾並上傳至 CADASU 測試網站 (app.test.cadasu.com)
 
